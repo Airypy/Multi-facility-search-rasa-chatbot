@@ -13,8 +13,8 @@ Medicine shop
 Super market
 Electronic shop
 
-![Alt text](/first1.jpg?raw=true "IMG")
+![Alt text](/first1.jpeg?raw=true "IMG")
 
-![Alt text](/second.jpg?raw=true "IMG")
+![Alt text](/second.jpeg?raw=true "IMG")
 
 @airypy
